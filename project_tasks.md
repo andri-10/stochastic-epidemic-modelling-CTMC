@@ -80,7 +80,3 @@ Provide:
 - All transition rates
 - The corresponding updated generator matrix \( \tilde{Q} \)
 
----
-
-## Repository Structure Recommendation
-
