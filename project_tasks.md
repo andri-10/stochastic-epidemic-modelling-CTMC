@@ -40,7 +40,7 @@ Then compute:
 
 ---
 
-## **4. Distribution of \( I(\hat{T}_{\text{ext}}/2) \)**  
+## **4. Distribution of I(Text/2)  
 At half of the mean extinction time \( \hat{T}_{\text{ext}}/2 \), evaluate the number of infected individuals for each simulation and plot its histogram.
 
 ---
